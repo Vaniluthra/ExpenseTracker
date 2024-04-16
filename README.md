@@ -1,6 +1,6 @@
 # ExpenseTracker
 
-React application that allows users to manage their expenses.
+React application that allows users to manage and keep a record of their expenses.
 
 ## Run Locally
 
